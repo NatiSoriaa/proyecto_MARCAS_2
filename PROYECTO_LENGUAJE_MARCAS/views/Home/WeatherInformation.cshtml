@@ -11,18 +11,18 @@
     {
         foreach (var datum in Model[0].data)
         {
-            <p>@datum.</p>
-
-
-            
-            <p>@datum.precip</p>
-            <p>@datum.temp</p>
-            <p>@datum.timezone</p>
-            <p>@datum.lat</p>
+            <p>@datum.datetime</p>
             <p>@datum.city_name</p>
-            <p>@datum.lon</p>
-            <p>@datum.weather.icon</p>
-
+            <p>SUNRISE TIME: @datum.sunrise</p>
+            <p>SUNSET TIME: @datum.sunset</p>        
+            <p>SPEED WIND: @datum.wind_spd m/s</p>
+            <p>TEMPERATURE: @datum.temp ºC</p>
+            <p>HUMITY: @datum.rh %</p>
+            <p>CLOUD COVERAGE: @datum.clouds %</p>
+            <p>RAIN PRECIPITATION: @datum.precip mm/hr</p>
+            <p>SNOW PRECIPITATION: @datum.snow mm/hr</p>
+            <p>UV INDEX: @datum.uv </p>
+            <p> QUALITY AIR: @datum.aqi</p>
         }
     }
     else
