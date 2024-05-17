@@ -4,9 +4,6 @@
     ViewData["Title"] = "Home Page";
 }
    
-@{
-    ViewData["Title"] = "Index";
-}
 
 <style>
     body{
@@ -131,18 +128,20 @@ a.button{
 <div>
     @foreach (var country in Model)
     {
-        <div class="flip-card">
-            <div class="flip-card-inner">
-                <div class="flip-card-front">
-                    <img src="@Url.Content(country.urlImagen)" alt="Avatar" style="width:100%;height:100%;">
-                </div>
-                <div class="flip-card-back">
-                    <h1>@country.countryName</h1>
-                    <p>@country.capitalCountry</p>
-                    <a href="..." class="button">Consultar</a>
+        <a href="@Url.Action("WeatherInformation", "Home", new {id= country.id})">
+            <div class="flip-card">
+                <div class="flip-card-inner">
+                    <div class="flip-card-front">
+                        <img src="@Url.Content(country.urlImagen)" alt="Avatar" style="width:100%;height:100%;">
+                    </div>
+                    <div class="flip-card-back">
+                        <h1>@country.countryName</h1>
+                        <p>@country.capitalCountry</p>
+                        <a href="@Url.Action("WeatherInformation","Home", new{id=country.id})" class="button">Consultar</a>
+                    </div>
                 </div>
             </div>
-        </div>
+        </a>
     }
 
     
