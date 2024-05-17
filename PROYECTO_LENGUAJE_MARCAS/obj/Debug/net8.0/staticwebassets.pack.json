@@ -5,36 +5,36 @@
       "PackagePath": "staticwebassets\\PROYECTO.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\banderaAlbania.jpeg",
-      "PackagePath": "staticwebassets\\Content\\Images\\banderaAlbania.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\banderaAlemania.jpeg",
-      "PackagePath": "staticwebassets\\Content\\Images\\banderaAlemania.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\banderaAndorra.jpeg",
-      "PackagePath": "staticwebassets\\Content\\Images\\banderaAndorra.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\banderaAustria.jpeg",
-      "PackagePath": "staticwebassets\\Content\\Images\\banderaAustria.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\banderaBelgica.jpeg",
-      "PackagePath": "staticwebassets\\Content\\Images\\banderaBelgica.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\banderaBielorussia.jpg",
-      "PackagePath": "staticwebassets\\Content\\Images\\banderaBielorussia.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\banderaBosnia y Herzegovina.jpeg",
-      "PackagePath": "staticwebassets\\Content\\Images\\banderaBosnia y Herzegovina.jpeg"
-    },
-    {
       "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\banderaChipre.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\banderaChipre.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaAlbania.jpeg",
+      "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaAlbania.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaAlemania.jpeg",
+      "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaAlemania.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaAndorra.jpeg",
+      "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaAndorra.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaAustria.jpeg",
+      "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaAustria.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaBelgica.jpeg",
+      "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaBelgica.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaBielorussia.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaBielorussia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaBosnia y Herzegovina.jpeg",
+      "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaBosnia y Herzegovina.jpeg"
     },
     {
       "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\fondoMapa.jpeg",
