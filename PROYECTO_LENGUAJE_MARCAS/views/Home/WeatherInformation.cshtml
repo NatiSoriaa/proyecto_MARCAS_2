@@ -11,12 +11,17 @@
     {
         foreach (var datum in Model[0].data)
         {
+            <p>@datum.</p>
+
+
+            
             <p>@datum.precip</p>
             <p>@datum.temp</p>
             <p>@datum.timezone</p>
             <p>@datum.lat</p>
             <p>@datum.city_name</p>
             <p>@datum.lon</p>
+            <p>@datum.weather.icon</p>
 
         }
     }
