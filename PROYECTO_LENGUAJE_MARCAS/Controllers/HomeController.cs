@@ -38,36 +38,36 @@ public class HomeController : Controller
         new CountriesID {countryName="Albania",capitalCountry="Tirana",urlImagen="Content/Images/flags/banderaAlbania.jpeg", urlCityImage="Content/Images/countries/tirana.jpg", id=3183875},
         new CountriesID {countryName="Germany",capitalCountry="Berlín",urlImagen="Content/Images/flags/banderaAlemania.jpeg",urlCityImage="Content/Images/countries/berlin.jpg",id=2950159},
         new CountriesID {countryName="Andorra",capitalCountry="Andorra la vieja",urlImagen="Content/Images/flags/banderaAndorra.jpeg",urlCityImage="Content/Images/countries/andorra.jpg",id=7730819},
-        new CountriesID {countryName="Austria",capitalCountry="Vienna",urlImagen="Content/Images/flags/banderaAustria.jpeg", urlCityImage="Content/Images/countries/vienna.jpg",id=2761369},
+        new CountriesID {countryName="Austria",capitalCountry="Vienna",urlImagen="Content/Images/flags/banderaAustria.jpeg", urlCityImage="Content/Images/countries/vienna.jpg",id=2761367},
         new CountriesID {countryName="Azerbaijan",capitalCountry="Baku",urlImagen="Content/Images/flags/banderaBelgica.jpeg", urlCityImage="Content/Images/countries/baku.jpg",id=587084},
-        new CountriesID {countryName="Belgium",capitalCountry="Brussels ",urlImagen="",urlCityImage="Content/Images/countries/brussels.jpg",id=2800866},
+        new CountriesID {countryName="Belgium",capitalCountry="Brussels ",urlImagen="",urlCityImage="Content/Images/countries/brussels.jpg",id=2800867},
         new CountriesID {countryName="Belarus",capitalCountry="Minsk ",urlImagen="",urlCityImage="Content/Images/countries/minsk.jpg",id=625144},
         new CountriesID {countryName="Bosnia and Herzegovina",capitalCountry="Sarajevo",urlImagen="",urlCityImage="Content/Images/countries/sarajevo.jpg",id=3191281},
         new CountriesID {countryName="Bulgaria",capitalCountry="Sofia",urlImagen="",urlCityImage="Content/Images/countries/sofia.jpg",id=727011},
         new CountriesID {countryName="Croatia",capitalCountry="Zagreb",urlImagen="",urlCityImage="Content/Images/countries/zagreb.jpg",id=3186886},
         new CountriesID {countryName="Cyprus",capitalCountry="Nicosia",urlImagen="",urlCityImage="Content/Images/countries/nicosia.jpg",id=146268},
-        new CountriesID {countryName="Chezchia",capitalCountry="Prague",urlImagen="",urlCityImage="Content/Images/countries/prague.jpg",id=3067696},
+        new CountriesID {countryName="Chezchia",capitalCountry="Prague",urlImagen="",urlCityImage="Content/Images/countries/prague.jpg",id=3067695},
         new CountriesID {countryName="Denmark",capitalCountry="Copenhagen",urlImagen="",urlCityImage="Content/Images/countries/copenaguen.jpg",id=2618425},
         new CountriesID {countryName="Estonia",capitalCountry="Tallinn",urlImagen="",urlCityImage="Content/Images/countries/tallin.jpg",id=588409},
         new CountriesID {countryName="Finland",capitalCountry="Helsinki",urlImagen="",urlCityImage="Content/Images/countries/hellsinki.jpg",id=658225},
         new CountriesID {countryName="France",capitalCountry="Paris",urlImagen="",urlCityImage="Content/Images/countries/paris.jpg",id=2988507},
         new CountriesID {countryName="Georgia",capitalCountry="Tbilisi",urlImagen="",urlCityImage="Content/Images/countries/tibilisi.jpeg",id=611717},
-        new CountriesID {countryName="Greece",capitalCountry="Athens",urlImagen="",urlCityImage="Content/Images/countries/athens.jpg",id=264371},
+        new CountriesID {countryName="Greece",capitalCountry="Athens",urlImagen="",urlCityImage="Content/Images/countries/athens.jpg",id=24505546},
         new CountriesID {countryName="Hungary",capitalCountry="Budapest",urlImagen="",urlCityImage="Content/Images/countries/budapest.jpg",id=3054643},
         new CountriesID {countryName="Iceland",capitalCountry="Reykjavik",urlImagen="",urlCityImage="Content/Images/countries/reykjavik.jpg",id=3413829},
         new CountriesID {countryName="Ireland",capitalCountry="Dublin",urlImagen="",urlCityImage="Content/Images/countries/dublin.jpg",id=2964574},
         new CountriesID {countryName="Italy",capitalCountry="Rome",urlImagen="",urlCityImage="Content/Images/countries/rome.jpg",id=3169070},
-        new CountriesID {countryName="Kazakhstan",capitalCountry="Astana",urlImagen="",urlCityImage="Content/Images/countries/astana.jpg",id=1526273},
+        new CountriesID {countryName="Kazakhstan",capitalCountry="Astana",urlImagen="",urlCityImage="Content/Images/countries/astana.jpg",id=1538317},
         new CountriesID {countryName="Kosovo",capitalCountry="Pristina",urlImagen="",urlCityImage="Content/Images/countries/pristina.jpg",id=786714},
         new CountriesID {countryName="Latvia",capitalCountry="Riga",urlImagen="",urlCityImage="Content/Images/countries/riga.jpg",id=456172},
         new CountriesID {countryName="Liechtenstein",capitalCountry="Vaduz",urlImagen="",urlCityImage="Content/Images/countries/vaduz.jpg",id=3042030},
         new CountriesID {countryName="Lithuania",capitalCountry="Vilnius",urlImagen="",urlCityImage="Content/Images/countries/vilnius.jpg",id=593116},
-        new CountriesID {countryName="Luzembourg",capitalCountry="Luxembourg(City)",urlImagen="",urlCityImage="Content/Images/countries/luxemburgo.jpg",id=2960316},
+        new CountriesID {countryName="Luxembourg",capitalCountry="Luxembourg(City)",urlImagen="",urlCityImage="Content/Images/countries/luxemburgo.jpg",id=2960316},
         new CountriesID {countryName="Malta",capitalCountry="Valletta",urlImagen="",urlCityImage="Content/Images/countries/valletta.jpg",id=2562305},
         new CountriesID {countryName="Moldava",capitalCountry="Chisinau",urlImagen="",urlCityImage="Content/Images/countries/chisinau.jpg",id=618426},
         new CountriesID {countryName="Monaco",capitalCountry="Monaco",urlImagen="",urlCityImage="Content/Images/countries/monaco.jpg",id=2993458},
         new CountriesID {countryName="Montenegro",capitalCountry="Podgorica",urlImagen="",urlCityImage="Content/Images/countries/podgorica.jpg",id=3193044},
-        new CountriesID {countryName="Netherlands",capitalCountry="Amsterdam",urlImagen="",urlCityImage="Content/Images/countries/amestrdam.jpg",id=2749794},
+        new CountriesID {countryName="Netherlands",capitalCountry="Amsterdam",urlImagen="",urlCityImage="Content/Images/countries/amestrdam.jpg",id=2759793},
         new CountriesID {countryName="North Macedonia",capitalCountry="Skopje",urlImagen="",urlCityImage="Content/Images/countries/skopje.jpg",id=785842},
         new CountriesID {countryName="Norway",capitalCountry="Oslo",urlImagen="",urlCityImage="Content/Images/countries/oslo.jpg",id=3143244},
         new CountriesID {countryName="Poland",capitalCountry="Warsaw",urlImagen="",urlCityImage="Content/Images/countries/warsaw.jpg",id=756135},
@@ -91,7 +91,7 @@ public class HomeController : Controller
 
     }
 
-    public IActionResult WeatherInformation(string id){
+    public IActionResult WeatherInformation(string id, string background){
 
         
         var urlApiCountry = $"http://api.geonames.org/getJSON?geonameId={id}&username=nagasa";
@@ -113,7 +113,7 @@ public class HomeController : Controller
 
         var listInformationWeather = new List<ApiWeather.Root>{informationWeather};
 
-        
+        ViewData["Background"]=background;
         
         
         if (listInformationWeather != null)

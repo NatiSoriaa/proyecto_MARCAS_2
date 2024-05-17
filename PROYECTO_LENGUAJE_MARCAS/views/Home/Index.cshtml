@@ -152,7 +152,7 @@
                             <p>@country.capitalCountry</p>
                         </div>
                         <div class="flip-card-back" style="background-image: url('@country.urlCityImage'); background-size:cover;">   
-                            <a href="@Url.Action("WeatherInformation", "Home", new { id = country.id })" class="button">Consultar</a>
+                            <a href="@Url.Action("WeatherInformation", "Home", new { id = country.id , background=country.urlCityImage})" class="button">Consultar</a>
                         </div>
                     </div>
                 </div>

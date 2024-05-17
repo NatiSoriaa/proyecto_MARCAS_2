@@ -1,31 +1,60 @@
 ﻿@{
     ViewData["Title"] = "Home";
+    var background = ViewData["Background"]?.ToString();
 }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
 
 <style>
+   body{
+        margin:0;
+        padding:0; 
+        ;
+    }
 
+    main{
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding: 20px;
+        color: white;
+        text-shadow: 1px 1px 2px black;
+    }
+
+    p{
+        margin: 3% 0;
+    }
 </style>
+</head>
+<body style="background-image: url('@background')">
 
+    <main>
 
- @if (Model != null && Model.Count > 0 && Model[0].data != null)
-    {
-        foreach (var datum in Model[0].data)
+    @if (Model != null && Model.Count > 0 && Model[0].data != null)
         {
-            <p>@datum.datetime</p>
-            <p>@datum.city_name</p>
-            <p>SUNRISE TIME: @datum.sunrise</p>
-            <p>SUNSET TIME: @datum.sunset</p>        
-            <p>SPEED WIND: @datum.wind_spd m/s</p>
-            <p>TEMPERATURE: @datum.temp ºC</p>
-            <p>HUMITY: @datum.rh %</p>
-            <p>CLOUD COVERAGE: @datum.clouds %</p>
-            <p>RAIN PRECIPITATION: @datum.precip mm/hr</p>
-            <p>SNOW PRECIPITATION: @datum.snow mm/hr</p>
-            <p>UV INDEX: @datum.uv </p>
-            <p> QUALITY AIR: @datum.aqi</p>
+            foreach (var datum in Model[0].data)
+            {
+                <p>@datum.datetime</p>
+                <p>@datum.city_name</p>
+                <p>SUNRISE TIME: @datum.sunrise</p>
+                <p>SUNSET TIME: @datum.sunset</p>        
+                <p>SPEED WIND: @datum.wind_spd m/s</p>
+                <p>TEMPERATURE: @datum.temp ºC</p>
+                <p>HUMITY: @datum.rh %</p>
+                <p>CLOUD COVERAGE: @datum.clouds %</p>
+                <p>RAIN PRECIPITATION: @datum.precip mm/hr</p>
+                <p>SNOW PRECIPITATION: @datum.snow mm/hr</p>
+                <p>UV INDEX: @datum.uv </p>
+                <p> QUALITY AIR: @datum.aqi</p>
+            }
         }
-    }
-    else
-    {
-        <p>No se encontraron datos de clima.</p>
-    }
+        else
+        {
+            <p>No se encontraron datos de clima.</p>
+        }
+    </main>
+</body>
+</html>
