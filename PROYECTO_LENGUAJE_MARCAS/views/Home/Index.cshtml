@@ -1,4 +1,6 @@
-﻿@{
+﻿@model IEnumerable<PROYECTO_LENGUAJE_MARCAS.Controllers.HomeController.CountriesID>
+
+@{
     ViewData["Title"] = "Home Page";
 }
    
@@ -124,13 +126,15 @@ a.button{
     padding: 30px;
 }
 </style>
+
+
 <div>
     @foreach (var country in Model)
     {
         <div class="flip-card">
             <div class="flip-card-inner">
                 <div class="flip-card-front">
-                    <img @country.urlImagen alt="Avatar" style="width:100%;height:100%;">
+                    <img src="@Url.Content(country.urlImagen)" alt="Avatar" style="width:100%;height:100%;">
                 </div>
                 <div class="flip-card-back">
                     <h1>@country.countryName</h1>

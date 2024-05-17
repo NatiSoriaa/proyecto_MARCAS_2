@@ -35,11 +35,11 @@ public class HomeController : Controller
     static List <CountriesID> CreateCountrysList(){
         List <CountriesID> countriesIDs= new List <CountriesID> ()
         {
-        new CountriesID {countryName="Albania",capitalCountry="Tirana",urlImagen="", urlCityImage="", id=3183875},
-        new CountriesID {countryName="Germany",capitalCountry="Berlín",urlImagen="",urlCityImage="",id=2950159},
-        new CountriesID {countryName="Andorra",capitalCountry="Andorra la vieja",urlImagen="",urlCityImage="",id=7730819},
-        new CountriesID {countryName="Austria",capitalCountry="Vienna",urlImagen="",urlCityImage="",id=2761369},
-        new CountriesID {countryName="Azerbaijan",capitalCountry="Baku",urlImagen="",urlCityImage="",id=587084},
+        new CountriesID {countryName="Albania",capitalCountry="Tirana",urlImagen="Content/Images/banderaAlbania.jpeg", urlCityImage="", id=3183875},
+        new CountriesID {countryName="Germany",capitalCountry="Berlín",urlImagen="",urlCityImage="Content/Images/banderaAlemania.jpeg",id=2950159},
+        new CountriesID {countryName="Andorra",capitalCountry="Andorra la vieja",urlImagen="Content/Images/banderaAndorra.jpeg",urlCityImage="",id=7730819},
+        new CountriesID {countryName="Austria",capitalCountry="Vienna",urlImagen="",urlCityImage="Content/Images/banderaAustria.jpeg",id=2761369},
+        new CountriesID {countryName="Azerbaijan",capitalCountry="Baku",urlImagen="",urlCityImage="Content/Images/banderaBelgica.jpeg",id=587084},
         new CountriesID {countryName="Belgium",capitalCountry="Brussels ",urlImagen="",urlCityImage="",id=2800866},
         new CountriesID {countryName="Belarus",capitalCountry="Minsk ",urlImagen="",urlCityImage="",id=625144},
         new CountriesID {countryName="Bosnia and Herzegovina",capitalCountry="Sarajevo",urlImagen="",urlCityImage="",id=3191281},
