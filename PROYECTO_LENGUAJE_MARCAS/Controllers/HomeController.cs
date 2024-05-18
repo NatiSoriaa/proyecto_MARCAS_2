@@ -39,7 +39,7 @@ public class HomeController : Controller
         new CountriesID {countryName="Germany",capitalCountry="Berlín",urlImagen="Content/Images/flags/banderaGermany.webp",urlCityImage="Content/Images/countries/berlin.jpg",id=2950159},
         new CountriesID {countryName="Andorra",capitalCountry="Andorra la vieja",urlImagen="Content/Images/flags/banderaAndorra.webp",urlCityImage="Content/Images/countries/andorra.jpg",id=7730819},
         new CountriesID {countryName="Austria",capitalCountry="Vienna",urlImagen="Content/Images/flags/banderaAustria.webp", urlCityImage="Content/Images/countries/vienna.jpg",id=2761367},
-        new CountriesID {countryName="Azerbaijan",capitalCountry="Baku",urlImagen="Content/Images/flags/banderaAzerbaijan.webp", urlCityImage="Content/Images/countries/baku.jpg",id=587084},
+        new CountriesID {countryName="Azerbaiyan",capitalCountry="Baku",urlImagen="Content/Images/flags/banderaAzerbaiyan.png", urlCityImage="Content/Images/countries/baku.jpg",id=587084},
         new CountriesID {countryName="Belgium",capitalCountry="Brussels ",urlImagen="Content/Images/flags/banderaBelgium.webp",urlCityImage="Content/Images/countries/brussels.jpg",id=2800867},
         new CountriesID {countryName="Belarus",capitalCountry="Minsk ",urlImagen="Content/Images/flags/banderaBelarus.webp",urlCityImage="Content/Images/countries/minsk.jpg",id=625144},
         new CountriesID {countryName="Bosnia and Herzegovina",capitalCountry="Sarajevo",urlImagen="Content/Images/flags/banderaBosniayHerzegovina.webp",urlCityImage="Content/Images/countries/sarajevo.jpg",id=3191281},

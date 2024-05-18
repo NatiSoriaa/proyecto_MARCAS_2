@@ -1,6 +1,7 @@
 ﻿@{
     ViewData["Title"] = "Home";
     var background = ViewData["Background"]?.ToString();
+    var weatherType = ViewData["WeatherType"]?.ToString();
 }
 <!DOCTYPE html>
 <html lang="en">
@@ -9,38 +10,54 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@ViewData["Title"]</title>
 
-<style>
-   body{
-        margin:0;
-        padding:0; 
-        ;
-    }
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
 
-    main{
-        background-size: cover;
-        background-repeat: no-repeat;
-        padding: 20px;
-        color: white;
-        text-shadow: 1px 1px 2px black;
-    }
+        div.container {
+            width: 50%;
+            margin: 50px auto;
+            background-color: rgba(255, 255, 255, 0.8);
+            border-radius: 20px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+            overflow: hidden;
+        }
 
-    p{
-        margin: 3% 0;
-    }
-</style>
+        div.weather-info {
+            margin-bottom: 20px;
+            padding: 20px;
+            background-color: #f2f2f2;
+            border-radius: 10px;
+        }
+
+        h3.weather-info {
+            margin-top: 2px;
+        }
+
+        p.weather-info {
+            margin: 5px 0;
+        }
+    </style>
+
 </head>
-<body style="background-image: url('@background')">
 
-    <main>
+<body>
 
-    @if (Model != null && Model.Count > 0 && Model[0].data != null)
+<div class="container">
+    <div class="weather-info">
+        @if (Model != null && Model.Count > 0 && Model[0].data != null)
         {
             foreach (var datum in Model[0].data)
             {
-                <p>@datum.datetime</p>
-                <p>@datum.city_name</p>
+                <h3>@datum.datetime - @datum.city_name</h3>
                 <p>SUNRISE TIME: @datum.sunrise</p>
-                <p>SUNSET TIME: @datum.sunset</p>        
+                <p>SUNSET TIME: @datum.sunset</p>
                 <p>SPEED WIND: @datum.wind_spd m/s</p>
                 <p>TEMPERATURE: @datum.temp ºC</p>
                 <p>HUMITY: @datum.rh %</p>
@@ -48,13 +65,33 @@
                 <p>RAIN PRECIPITATION: @datum.precip mm/hr</p>
                 <p>SNOW PRECIPITATION: @datum.snow mm/hr</p>
                 <p>UV INDEX: @datum.uv </p>
-                <p> QUALITY AIR: @datum.aqi</p>
+                <p>QUALITY AIR: @datum.aqi</p>
+                @if (datum.precip > 0)
+                {
+                    <body style="background-image: url('@Url.Content("~/Content/Images/lluvia.gif")')"></body>
+                }
+                else if (datum.snow > 0)
+                {
+                    <body style="background-image: url('@Url.Content("~/Content/Images/nieve.gif")')"></body>
+                }
+                else if (datum.clouds >= 50)
+                {
+                    <body style="background-image: url('@Url.Content("~/Content/Images/nublado.jpeg")')"></body>
+                }
+                else
+                {
+                    <body style="background-image: url('@Url.Content("~/Content/Images/soleado.gif")')"></body>
+                }
             }
         }
+
         else
         {
             <p>No se encontraron datos de clima.</p>
         }
-    </main>
+
+    </div>
+</div>
+
 </body>
 </html>
