@@ -1,4 +1,5 @@
-﻿@{
+﻿@using PROYECTO_LENGUAJE_MARCAS.Controllers
+@{
     ViewData["Title"] = "Home";
     var background = ViewData["Background"]?.ToString();
     var weatherType = ViewData["WeatherType"]?.ToString();
@@ -20,27 +21,52 @@
             background-position: center;
         }
 
-        div.container {
-            width: 50%;
+        .container {
+            width: 60%;
             margin: 50px auto;
             background-color: rgba(255, 255, 255, 0.8);
             border-radius: 20px;
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
             overflow: hidden;
+            padding: 20px;
         }
 
-        div.weather-info {
+        .weather-info{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
             margin-bottom: 20px;
             padding: 20px;
-            background-color: #f2f2f2;
+            background: linear-gradient(to bottom, #FFFFFF,#b4eaf1, #78d9e6);
             border-radius: 10px;
         }
 
-        h3.weather-info {
-            margin-top: 2px;
+        .weather-info {
+            flex: 1 1 45%;
+            margin: 10px;
         }
 
-        p.weather-info {
+        .temperature {
+            flex-basis: 100%;
+            text-align: center;
+            font-size: 45px;
+            margin: 20px 0;
+        }
+
+        .medium{
+            border-bottom: 2px solid #000; 
+            padding-bottom: 10px; 
+            margin-bottom: 20px;
+        }
+
+        .secondary {
+            display: flex;
+            flex-direction: column;
+            flex-basis: 100%;
+            margin: 10px 0;
+        }
+
+        .secondary p {
             margin: 5px 0;
         }
     </style>
@@ -56,16 +82,25 @@
             foreach (var datum in Model[0].data)
             {
                 <h3>@datum.datetime - @datum.city_name</h3>
-                <p>SUNRISE TIME: @datum.sunrise</p>
-                <p>SUNSET TIME: @datum.sunset</p>
-                <p>SPEED WIND: @datum.wind_spd m/s</p>
-                <p>TEMPERATURE: @datum.temp ºC</p>
-                <p>HUMITY: @datum.rh %</p>
-                <p>CLOUD COVERAGE: @datum.clouds %</p>
-                <p>RAIN PRECIPITATION: @datum.precip mm/hr</p>
-                <p>SNOW PRECIPITATION: @datum.snow mm/hr</p>
-                <p>UV INDEX: @datum.uv </p>
-                <p>QUALITY AIR: @datum.aqi</p>
+                <div class="temperature">
+                    <p>@datum.temp ºC</p>
+                </div>
+                <div class="medium">
+                    <p>SUNSET TIME: @datum.sunset</p>
+                    <p>SUNRISE TIME: @datum.sunrise</p>
+                </div>
+                <div>
+                    <p>HUMIDITY: @datum.rh %</p>
+                    <p>CLOUD COVERAGE: @datum.clouds %</p>
+                </div>
+                <div class="secondary">
+                    <p>SPEED WIND: @datum.wind_spd m/s</p>
+                    <p>RAIN PRECIPITATION: @datum.precip mm/hr</p>
+                    <p>SNOW PRECIPITATION: @datum.snow mm/hr</p>
+                    <p>UV INDEX: @datum.uv </p>
+                    <p>QUALITY AIR: @datum.aqi</p>
+                </div>
+                
                 @if (datum.precip > 0)
                 {
                     <body style="background-image: url('@Url.Content("~/Content/Images/lluvia.gif")')"></body>
@@ -82,6 +117,8 @@
                 {
                     <body style="background-image: url('@Url.Content("~/Content/Images/soleado.gif")')"></body>
                 }
+                
+                
             }
         }
 

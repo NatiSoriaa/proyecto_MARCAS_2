@@ -20,30 +20,6 @@
             backdrop-filter: blur(5px);
         }
 
-        ul {
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-            overflow: hidden;
-            background-color: #215f7c;
-        }
-        
-        li {
-            float: left;
-        }
-        
-        li a {
-            display: block;
-            color: white;
-            text-align: center;
-            padding: 14px 16px;
-            text-decoration: none;
-        }
-        
-        li a:hover {
-            background-color: #111;
-        }
-
         .flip-card {
             background-color: transparent;
             width: 300px;
@@ -74,25 +50,33 @@
             display: flex;
             align-items: center;
             justify-content: center;
+            box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.1);
+            transform-style: preserve-3d;
+            
         }
 
         .flip-card-front {
-            background-color:#215f7c;
             color: white;
             display: flex;
             flex-direction: column;
             align-items: center;
             justify-content: center;
+            text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.5);
+            
+            
+        }
+        .flip-card-front h1 {
+            -webkit-text-stroke: 2px black;
         }
 
         .flip-card-back {
-            background-color: #215f7c;
             color: white;
             transform: rotateY(180deg);
             display: flex;
             flex-direction: column;
             align-items: center;
             justify-content: center;
+            
         }
         .card-image{
             width: 100%;
@@ -101,7 +85,7 @@
         }
 
         a.button {
-            background-color: rgb(122, 170, 193,0.5);
+            background-color: rgba(60, 138, 255, 0.5);;
             color: rgb(0, 0, 0);
             padding: 10px 20px;
             border: none;
@@ -113,7 +97,7 @@
         }
 
         a.button:hover {
-            background-color: rgb(122, 170, 193,0.7);
+            background-color: rgba(0, 47, 255, 0.7);
         }
 
         .main {

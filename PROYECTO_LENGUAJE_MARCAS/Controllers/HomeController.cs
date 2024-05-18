@@ -1,6 +1,5 @@
 using System.Diagnostics;
 using System.Text.Json;
-
 using Microsoft.AspNetCore.Mvc;
 using PROYECTO.Models;
 using PROYECTO_LENGUAJE_MARCAS.Models;
@@ -129,7 +128,7 @@ public class HomeController : Controller
 
 
     
-    
+
 
     public IActionResult Privacy()
     {
