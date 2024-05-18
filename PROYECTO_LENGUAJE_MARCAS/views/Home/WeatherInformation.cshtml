@@ -12,6 +12,7 @@
     <title>@ViewData["Title"]</title>
 
     <style>
+        
         body {
             margin: 0;
             padding: 0;
@@ -69,6 +70,16 @@
         .secondary p {
             margin: 5px 0;
         }
+        .footer {
+            position: relative bottom;
+            bottom: 0;
+            width: 100%;
+            height: 20px; 
+            background-color: #caced1;
+            text-align: center;
+            line-height: 20px;
+            z-index:1000;
+        }
     </style>
 
 </head>
@@ -82,25 +93,16 @@
             foreach (var datum in Model[0].data)
             {
                 <h3>@datum.datetime - @datum.city_name</h3>
-                <div class="temperature">
-                    <p>@datum.temp ºC</p>
-                </div>
-                <div class="medium">
-                    <p>SUNSET TIME: @datum.sunset</p>
-                    <p>SUNRISE TIME: @datum.sunrise</p>
-                </div>
-                <div>
-                    <p>HUMIDITY: @datum.rh %</p>
-                    <p>CLOUD COVERAGE: @datum.clouds %</p>
-                </div>
-                <div class="secondary">
-                    <p>SPEED WIND: @datum.wind_spd m/s</p>
-                    <p>RAIN PRECIPITATION: @datum.precip mm/hr</p>
-                    <p>SNOW PRECIPITATION: @datum.snow mm/hr</p>
-                    <p>UV INDEX: @datum.uv </p>
-                    <p>QUALITY AIR: @datum.aqi</p>
-                </div>
-                
+                <p>SUNRISE TIME: @datum.sunrise</p>
+                <p>SUNSET TIME: @datum.sunset</p>
+                <p>SPEED WIND: @datum.wind_spd m/s</p>
+                <p>TEMPERATURE: @datum.temp ºC</p>
+                <p>HUMITY: @datum.rh %</p>
+                <p>CLOUD COVERAGE: @datum.clouds %</p>
+                <p>RAIN PRECIPITATION: @datum.precip mm/hr</p>
+                <p>SNOW PRECIPITATION: @datum.snow mm/hr</p>
+                <p>UV INDEX: @datum.uv </p>
+                <p>QUALITY AIR: @datum.aqi</p>
                 @if (datum.precip > 0)
                 {
                     <body style="background-image: url('@Url.Content("~/Content/Images/lluvia.gif")')"></body>
@@ -117,18 +119,16 @@
                 {
                     <body style="background-image: url('@Url.Content("~/Content/Images/soleado.gif")')"></body>
                 }
-                
-                
             }
         }
 
-        else
-        {
-            <p>No se encontraron datos de clima.</p>
-        }
+            else
+            {
+                <p>No se encontraron datos de clima.</p>
+            }
 
+        </div>
     </div>
-</div>
 
 </body>
 </html>

@@ -1,923 +1,931 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PROYECTO.bundle.scp.css",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PROYECTO.bundle.scp.css",
       "PackagePath": "staticwebassets\\PROYECTO.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\amsterdam.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\carrousel.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\carrousel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\carrusel.png",
+      "PackagePath": "staticwebassets\\Content\\Images\\carrusel.png"
+    },
+    {
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\amsterdam.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\amsterdam.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\andorra.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\andorra.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\andorra.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\ankara.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\ankara.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\ankara.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\astana.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\astana.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\astana.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\athens.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\athens.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\athens.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\baku.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\baku.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\baku.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\belgrade.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\belgrade.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\belgrade.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\berlin.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\berlin.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\berlin.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\bern.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\bern.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\bern.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\bratislava.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\bratislava.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\bratislava.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\brussels.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\brussels.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\brussels.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\bucharest.jpeg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\bucharest.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\bucharest.jpeg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\budapest.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\budapest.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\budapest.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\chisinau.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\chisinau.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\chisinau.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\copenaguen.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\copenaguen.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\copenaguen.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\dublin.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\dublin.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\dublin.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\hellsinki.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\hellsinki.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\hellsinki.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\kyiv.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\kyiv.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\kyiv.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\lisbon.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\lisbon.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\lisbon.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\ljubljana.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\ljubljana.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\ljubljana.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\london.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\london.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\london.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\luxemburgo.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\luxemburgo.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\luxemburgo.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\madrid.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\madrid.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\madrid.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\minsk.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\minsk.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\minsk.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\monaco.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\monaco.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\monaco.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\moscow.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\moscow.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\moscow.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\nicosia.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\nicosia.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\nicosia.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\oslo.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\oslo.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\oslo.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\paris.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\paris.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\paris.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\podgorica.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\podgorica.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\podgorica.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\prague.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\prague.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\prague.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\pristina.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\pristina.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\pristina.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\reykjavik.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\reykjavik.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\reykjavik.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\riga.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\riga.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\riga.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\rome.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\rome.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\rome.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\san_marino.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\san_marino.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\san_marino.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\sarajevo.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\sarajevo.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\sarajevo.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\skopje.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\skopje.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\skopje.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\sofia.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\sofia.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\sofia.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\stockholm.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\stockholm.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\stockholm.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\tallin.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\tallin.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\tallin.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\tibilisi.jpeg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\tibilisi.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\tibilisi.jpeg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\tirana.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\tirana.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\tirana.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\vaduz.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\vaduz.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\vaduz.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\valletta.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\valletta.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\valletta.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\vatican_city.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\vatican_city.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\vatican_city.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\vienna.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\vienna.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\vienna.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\vilnius.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\vilnius.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\vilnius.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\warsaw.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\warsaw.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\warsaw.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\zagreb.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\zagreb.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\zagreb.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaAlbania.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaAlbania.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaAlbania.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaAndorra.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaAndorra.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaAndorra.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaAustria.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaAustria.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaAustria.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaAzerbaiyan.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaAzerbaiyan.png",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaAzerbaiyan.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaBelarus.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaBelarus.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaBelarus.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaBelgium.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaBelgium.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaBelgium.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaBosniayHerzegovina.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaBosniayHerzegovina.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaBosniayHerzegovina.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaBulgaria.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaBulgaria.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaBulgaria.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaChezchia.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaChezchia.png",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaChezchia.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaCroatia.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaCroatia.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaCroatia.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaCyprus.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaCyprus.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaCyprus.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaDenmark.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaDenmark.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaDenmark.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaEstonia.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaEstonia.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaEstonia.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaFinland.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaFinland.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaFinland.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaFrance.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaFrance.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaFrance.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaGeorgia.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaGeorgia.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaGeorgia.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaGermany.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaGermany.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaGermany.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaGreece.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaGreece.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaGreece.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaHungary.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaHungary.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaHungary.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaIceland.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaIceland.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaIceland.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaIreland.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaIreland.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaIreland.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaItaly.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaItaly.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaItaly.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaKazakhstan.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaKazakhstan.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaKazakhstan.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaKosovo.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaKosovo.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaKosovo.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaLatvia.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaLatvia.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaLatvia.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaLiechtenstein.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaLiechtenstein.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaLiechtenstein.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaLithuania.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaLithuania.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaLithuania.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaLuzembourg.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaLuzembourg.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaLuzembourg.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaMalta.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaMalta.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaMalta.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaMoldava.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaMoldava.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaMoldava.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaMonaco.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaMonaco.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaMonaco.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaMontenegro.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaMontenegro.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaMontenegro.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaNetherlands.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaNetherlands.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaNetherlands.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaNorthMacedonia.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaNorthMacedonia.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaNorthMacedonia.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaNorway.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaNorway.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaNorway.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaPoland.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaPoland.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaPoland.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaPortugal.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaPortugal.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaPortugal.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaRomania.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaRomania.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaRomania.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaRussia.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaRussia.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaRussia.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaSanMarino.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaSanMarino.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaSanMarino.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaSerbia.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaSerbia.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaSerbia.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaSlovakia.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaSlovakia.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaSlovakia.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaSpain.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaSpain.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaSpain.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaStovenia.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaStovenia.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaStovenia.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaSweden.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaSweden.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaSweden.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaSwitzerland.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaSwitzerland.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaSwitzerland.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaTurkey.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaTurkey.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaTurkey.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaUkraine.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaUkraine.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaUkraine.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaUnitedKingdom.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaUnitedKingdom.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaUnitedKingdom.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaVaticanCity.webp",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\flags\\banderaVaticanCity.webp",
       "PackagePath": "staticwebassets\\Content\\Images\\flags\\banderaVaticanCity.webp"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\fondoprueba1.jpg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\fondoprueba1.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\fondoprueba1.jpg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\a01d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\a01d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\a01d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\a02d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\a02d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\a02d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\a03d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\a03d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\a03d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\a04d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\a04d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\a04d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\a05d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\a05d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\a05d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\a06d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\a06d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\a06d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\c01d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\c01d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\c01d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\c02d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\c02d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\c02d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\c03d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\c03d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\c03d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\c04d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\c04d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\c04d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\d01d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\d01d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\d01d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\d02d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\d02d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\d02d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\d03d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\d03d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\d03d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\f01d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\f01d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\f01d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\r01d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\r01d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\r01d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\r03d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\r03d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\r03d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\r04d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\r04d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\r04d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\r05d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\r05d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\r05d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\r06d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\r06d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\r06d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\s01d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\s01d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\s01d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\s02d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\s02d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\s02d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\s03d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\s03d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\s03d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\s04d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\s04d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\s04d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\s05d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\s05d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\s05d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\s06d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\s06d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\s06d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\t01d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\t01d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\t01d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\t02d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\t02d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\t02d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\t03d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\t03d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\t03d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\t04d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\t04d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\t04d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\t05d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\t05d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\t05d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\u00d.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\u00d.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\u00d.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\a01n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\a01n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\a01n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\a02n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\a02n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\a02n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\a03n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\a03n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\a03n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\a04n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\a04n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\a04n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\a05n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\a05n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\a05n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\a06n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\a06n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\a06n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\c01n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\c01n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\c01n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\c02n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\c02n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\c02n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\c03n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\c03n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\c03n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\c04n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\c04n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\c04n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\d01n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\d01n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\d01n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\d02n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\d02n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\d02n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\d03n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\d03n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\d03n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\f01n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\f01n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\f01n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\r01n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\r01n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\r01n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\r02n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\r02n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\r02n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\r03n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\r03n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\r03n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\r04n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\r04n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\r04n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\r05n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\r05n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\r05n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\r06n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\r06n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\r06n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\s01n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\s01n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\s01n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\s02n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\s02n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\s02n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\s03n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\s03n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\s03n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\s04n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\s04n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\s04n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\s05n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\s05n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\s05n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\s06n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\s06n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\s06n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\t01n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\t01n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\t01n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\t02n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\t02n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\t02n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\t03n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\t03n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\t03n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\t04n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\t04n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\t04n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\t05n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\t05n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\t05n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\u00n.png",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\night\\u00n.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\night\\u00n.png"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\lluvia.gif",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\lluvia.gif",
       "PackagePath": "staticwebassets\\Content\\Images\\lluvia.gif"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\mundo.gif",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\mundo.gif",
       "PackagePath": "staticwebassets\\Content\\Images\\mundo.gif"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\nieve.gif",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\nieve.gif",
       "PackagePath": "staticwebassets\\Content\\Images\\nieve.gif"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\nublado.jpeg",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\nublado.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\nublado.jpeg"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\soleado.gif",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\soleado.gif",
       "PackagePath": "staticwebassets\\Content\\Images\\soleado.gif"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\proyectoMarcas\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
