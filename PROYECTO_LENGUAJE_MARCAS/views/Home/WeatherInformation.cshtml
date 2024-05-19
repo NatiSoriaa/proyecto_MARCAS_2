@@ -1,8 +1,7 @@
 ﻿@using PROYECTO_LENGUAJE_MARCAS.Controllers
 @{
     ViewData["Title"] = "Home";
-    var background = ViewData["Background"]?.ToString();
-    var weatherType = ViewData["WeatherType"]?.ToString();
+ 
 }
 <!DOCTYPE html>
 <html lang="en">
@@ -20,115 +19,191 @@
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        main {
+            flex: 1; 
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: rgba(240, 248, 255, 0.7);
+            border-radius: 5%;
+            padding: 20px;
+            width: 70%;
+            margin: auto;
+            margin-top: 10px;
         }
 
         .container {
-            width: 60%;
-            margin: 50px auto;
-            background-color: rgba(255, 255, 255, 0.8);
-            border-radius: 20px;
-            box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
-            overflow: hidden;
-            padding: 20px;
-        }
-
-        .weather-info{
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-between;
-            margin-bottom: 20px;
-            padding: 20px;
-            background: linear-gradient(to bottom, #FFFFFF,#b4eaf1, #78d9e6);
-            border-radius: 10px;
-        }
-
-        .weather-info {
-            flex: 1 1 45%;
-            margin: 10px;
-        }
-
-        .temperature {
-            flex-basis: 100%;
-            text-align: center;
-            font-size: 45px;
-            margin: 20px 0;
-        }
-
-        .medium{
-            border-bottom: 2px solid #000; 
-            padding-bottom: 10px; 
-            margin-bottom: 20px;
-        }
-
-        .secondary {
-            display: flex;
-            flex-direction: column;
-            flex-basis: 100%;
-            margin: 10px 0;
-        }
-
-        .secondary p {
-            margin: 5px 0;
-        }
-        .footer {
-            position: relative bottom;
-            bottom: 0;
             width: 100%;
-            height: 20px; 
-            background-color: #caced1;
-            text-align: center;
-            line-height: 20px;
-            z-index:1000;
         }
+
+        .currentCityBox {
+            border-radius: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            height: fit-content;
+            width: 100%;
+            padding: 20px;
+            margin-bottom: 5px; 
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+
+        .container {
+            width: 100%;
+        }
+
+        .temperature{
+            text-align: center;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 80px;
+            font-weight: bolder;
+            background: linear-gradient(to right, #fa4261, #f39762, #d5aa10);
+            background-size: cover;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            -webkit-text-stroke: 1px rgb(253, 239, 239);
+        }
+
+        .leftSpan {
+            align-items: center;
+            flex: 1;
+            font-size: xx-large;
+            font-weight: bolder;
+            text-align: center;
+        }
+
+        .rightSpan {
+            flex: 1;
+            display: flex;
+            justify-content: flex-end;
+        }
+
+        .currentInformation {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;   
+            margin-top: 5%;  
+        }
+        
+
+        .currentInformation span {
+            flex-basis: 45%;
+            
+        }
+
+
+        .information{
+            font-size: 20px;
+            font-weight: bold;
+            text-align: center;
+            
+        }
+        .qualityAir{
+            
+            height: 50px;
+            color:rgb(1, 40, 20);
+            font-size: large;
+            font-weight: bolder;
+            background-image: url('@Url.Content("~/Content/Images/iconWeather/qualityAir.jpg")');
+            background-repeat: no-repeat;
+            background-size: cover;
+            border-radius: 5%;
+            align-items: center;
+            text-align: center;
+        }
+
+        footer{
+            width: 100%;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 5%;
+        }
+
+    
     </style>
 
 </head>
 
 <body>
 
-<div class="container">
-    <div class="weather-info">
-        @if (Model != null && Model.Count > 0 && Model[0].data != null)
-        {
-            foreach (var datum in Model[0].data)
+    <main class="main">
+            @if (Model != null && Model.Count > 0 && Model[0].data != null)
             {
-                <h3>@datum.datetime - @datum.city_name</h3>
-                <p>SUNRISE TIME: @datum.sunrise</p>
-                <p>SUNSET TIME: @datum.sunset</p>
-                <p>SPEED WIND: @datum.wind_spd m/s</p>
-                <p>TEMPERATURE: @datum.temp ºC</p>
-                <p>HUMITY: @datum.rh %</p>
-                <p>CLOUD COVERAGE: @datum.clouds %</p>
-                <p>RAIN PRECIPITATION: @datum.precip mm/hr</p>
-                <p>SNOW PRECIPITATION: @datum.snow mm/hr</p>
-                <p>UV INDEX: @datum.uv </p>
-                <p>QUALITY AIR: @datum.aqi</p>
-                @if (datum.precip > 0)
+                foreach (var datum in Model[0].data)
                 {
-                    <body style="background-image: url('@Url.Content("~/Content/Images/lluvia.gif")')"></body>
+                    string backgroundCurrentCity = datum.precip > 20 ? "~/Content/Images/iconWeather/day/rain.jpg" :
+                                          datum.snow > 0 ? "~/Content/Images/iconWeather/day/snow.jpg" :
+                                          datum.clouds >= 50 ? "~/Content/Images/iconWeather/day/cloud.jpg" : 
+                                          "~/Content/Images/iconWeather/day/sunny.jpg";
+
+                    <div class="container">
+                        <div class="currentCityBox" style="background-image: url('@Url.Content(backgroundCurrentCity)')">
+                            <div class="leftSpan">
+                                <h1 style="font-weight: bolder; font-size:40px;">@datum.city_name</h1>
+                                <h3 style="font-weight: bolder; font-size:30px;">@datum.ob_time</h3>
+                            </div>
+                            <div class="rightSpan">
+                                <p class="temperature">@datum.temp ºC</p>
+                            </div>
+                        </div>
+                        <div class="currentInformation">
+                            <span>
+                                <p class="information">SUNRISE TIME: @datum.sunrise H</p>         
+                                <p class="information">CLOUD COVERAGE: @datum.clouds %</p>
+                                <p class="information">RAIN PRECIPITATION: @datum.precip mm/hr</p>
+                                <p class="information">SNOW PRECIPITATION: @datum.snow mm/hr</p>
+                            </span>
+
+                            <span>
+                                <p class="information">SUNSET TIME: @datum.sunset H</p>
+                                <p class="information">UV INDEX: @datum.uv </p>
+                                <p class="information">SPEED WIND: @datum.wind_spd m/s</p> 
+                                <p class="information">HUMITY: @datum.rh %</p>
+                            </span>
+                        </div>
+
+                        <div class="qualityAir">
+                            <p class="information" style="margin-top:5%; text-align:center;">QUALITY AIR: @datum.aqi</p>
+                        </div>
+
+
+                            
+                            
+                            
+                            
+                        
+                    </div>
+                    @if (datum.precip >=20)
+                    {
+                        <body style="background-image: url('@Url.Content("~/Content/Images/lluvia.gif")')"></body>
+                    }
+                    else if (datum.snow > 0)
+                    {
+                        <body style="background-image: url('@Url.Content("~/Content/Images/nieve.gif")')"></body>
+                    }
+                    else if (datum.clouds >= 50)
+                    {
+                        <body style="background-image: url('@Url.Content("~/Content/Images/nublado.jpeg")')"></body>
+                    }
+                    else
+                    {
+                        <body style="background-image: url('@Url.Content("~/Content/Images/soleado.gif")')"></body>
+                    }
                 }
-                else if (datum.snow > 0)
-                {
-                    <body style="background-image: url('@Url.Content("~/Content/Images/nieve.gif")')"></body>
-                }
-                else if (datum.clouds >= 50)
-                {
-                    <body style="background-image: url('@Url.Content("~/Content/Images/nublado.jpeg")')"></body>
-                }
+            }
+
                 else
                 {
-                    <body style="background-image: url('@Url.Content("~/Content/Images/soleado.gif")')"></body>
+                    <p>No se encontraron datos de clima.</p>
                 }
-            }
-        }
-
-            else
-            {
-                <p>No se encontraron datos de clima.</p>
-            }
-
-        </div>
-    </div>
+    </main>
 
 </body>
 </html>

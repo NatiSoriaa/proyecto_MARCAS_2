@@ -4,7 +4,7 @@ public class ApiWeather
 {
     public class Weather
     {
-        public int code { get; set; }
+        public double code { get; set; }
         public string icon { get; set; }
         public string description { get; set; }
     }
@@ -52,17 +52,17 @@ public class ApiWeather
 
     public class Minutely
     {
-        public int precip { get; set; }
-        public int snow { get; set; }
+        public double precip { get; set; }
+        public double snow { get; set; }
         public double temp { get; set; }
-        public int ts { get; set; }
+        public double ts { get; set; }
         public DateTime timestamp_utc { get; set; }
         public DateTime timestamp_local { get; set; }
     }
 
     public class Root
     {
-        public int count { get; set; }
+        public double count { get; set; }
         public List<Datum> data { get; set; }
         public List<Minutely> minutely { get; set; }
     }
