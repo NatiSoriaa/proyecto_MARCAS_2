@@ -66,7 +66,7 @@ public class HomeController : Controller
         new CountriesID {countryName="Moldava",capitalCountry="Chisinau",urlImagen="Content/Images/flags/banderaMoldava.webp",urlCityImage="Content/Images/countries/chisinau.jpg",id=618426},
         new CountriesID {countryName="Monaco",capitalCountry="Monaco",urlImagen="Content/Images/flags/banderaMonaco.webp",urlCityImage="Content/Images/countries/monaco.jpg",id=2993458},
         new CountriesID {countryName="Montenegro",capitalCountry="Podgorica",urlImagen="Content/Images/flags/banderaMontenegro.webp",urlCityImage="Content/Images/countries/podgorica.jpg",id=3193044},
-        new CountriesID {countryName="Netherlands",capitalCountry="Amsterdam",urlImagen="Content/Images/flags/banderaNetherlands.webp",urlCityImage="Content/Images/countries/amestrdam.jpg",id=2759793},
+        new CountriesID {countryName="Netherlands",capitalCountry="Amsterdam",urlImagen="Content/Images/flags/banderaNetherlands.webp",urlCityImage="Content/Images/countries/amsterdam.jpg",id=2759793},
         new CountriesID {countryName="North Macedonia",capitalCountry="Skopje",urlImagen="Content/Images/flags/banderaNorthMacedonia.webp",urlCityImage="Content/Images/countries/skopje.jpg",id=785842},
         new CountriesID {countryName="Norway",capitalCountry="Oslo",urlImagen="Content/Images/flags/banderaNorway.webp",urlCityImage="Content/Images/countries/oslo.jpg",id=3143244},
         new CountriesID {countryName="Poland",capitalCountry="Warsaw",urlImagen="Content/Images/flags/banderaPoland.webp",urlCityImage="Content/Images/countries/warsaw.jpg",id=756135},

@@ -5,14 +5,6 @@
       "PackagePath": "staticwebassets\\PROYECTO.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\carrousel.jpg",
-      "PackagePath": "staticwebassets\\Content\\Images\\carrousel.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\carrusel.png",
-      "PackagePath": "staticwebassets\\Content\\Images\\carrusel.png"
-    },
-    {
       "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\countries\\amsterdam.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\countries\\amsterdam.jpg"
     },
@@ -433,8 +425,16 @@
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\sunny.jpg"
     },
     {
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\hoja.png",
+      "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\hoja.png"
+    },
+    {
       "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\qualityAir.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\qualityAir.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\sunrise.png",
+      "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\sunrise.png"
     },
     {
       "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\lluvia.gif",
