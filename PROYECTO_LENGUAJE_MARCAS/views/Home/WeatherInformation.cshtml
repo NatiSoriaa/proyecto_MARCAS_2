@@ -112,7 +112,7 @@
             margin: 100px auto;
             width: 80%;
             height: fit-content;
-            background-image: url('@Url.Content("~/Content/Images/iconWeather/qualityAir.jpg")');
+            
             background-repeat: no-repeat;
             background-size: cover;
             border-radius: 50px;
@@ -189,16 +189,29 @@
                                 <p class="information">HUMITY: @datum.rh %</p>
                             </span>
                         </div>
-
-                        <div class="qualityAir">
-                            <p  class="qualityText" style="margin-left:0.5%"  z-index:1;">QUALITY AIR  : @datum.aqi</p>
-                            <img src="@Url.Content("~/Content/Images/iconWeather/hoja.png")" height="120px" width="140px" style="margin-left:0.5%" alt="First slide">
-                        </div>
-
-
-                            
-                            
-                            
+                        
+                        @if (datum.aqi>100)
+                        {
+                            <div class="qualityAir" style="background-image: url('@Url.Content("~/Content/Images/iconWeather/qualityAirBAD.png")');">
+                                <p  class="qualityText" style="margin-left:0.5%"  z-index:1;">QUALITY AIR  : @datum.aqi ICA</p>
+                                <img src="@Url.Content("~/Content/Images/iconWeather/airBAD.png")" height="120px" width="140px" style="margin-left:0.5%" alt="First slide">
+                            </div>
+                        }
+                        else if (datum.snow >60)
+                        {
+                            <div class="qualityAir" style="background-image: url('@Url.Content("~/Content/Images/iconWeather/qualityAirOK.jpg")');">
+                                <p  class="qualityText" style="margin-left:0.5%"  z-index:1;">QUALITY AIR  : @datum.aqi ICA</p>
+                                <img src="@Url.Content("~/Content/Images/iconWeather/airOK.png")" height="120px" width="140px" style="margin-left:0.5%" alt="First slide">
+                            </div>
+                        }
+                        else if (datum.aqi<60)
+                        {
+                            <div class="qualityAir" style="background-image: url('@Url.Content("~/Content/Images/iconWeather/qualityAirGOOD.jpg")');">
+                                <p  class="qualityText" style="margin-left:0.5%"  z-index:1;">QUALITY AIR  : @datum.aqi ICA</p>
+                                <img src="@Url.Content("~/Content/Images/iconWeather/airGOOD.png")" height="120px" width="140px" style="margin-left:0.5%" alt="First slide">
+                            </div>
+                        }
+                                 
                             
                         
                     </div>

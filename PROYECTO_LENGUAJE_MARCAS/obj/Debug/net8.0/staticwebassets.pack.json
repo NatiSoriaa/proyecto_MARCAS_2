@@ -409,6 +409,18 @@
       "PackagePath": "staticwebassets\\Content\\Images\\fondoprueba1.jpg"
     },
     {
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\airBAD.png",
+      "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\airBAD.png"
+    },
+    {
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\airGOOD.png",
+      "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\airGOOD.png"
+    },
+    {
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\airOK.png",
+      "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\airOK.png"
+    },
+    {
       "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\day\\cloud.jpg",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\cloud.jpg"
     },
@@ -425,12 +437,16 @@
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\day\\sunny.jpg"
     },
     {
-      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\hoja.png",
-      "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\hoja.png"
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\qualityAirBAD.png",
+      "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\qualityAirBAD.png"
     },
     {
-      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\qualityAir.jpg",
-      "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\qualityAir.jpg"
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\qualityAirGOOD.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\qualityAirGOOD.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\qualityAirOK.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\qualityAirOK.jpg"
     },
     {
       "Id": "C:\\Users\\Natalia\\Desktop\\DAW\\LENGUAJE_MARCAS\\PROYECTO_LENGUAJE_MARCAS-BUENO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\sunrise.png",
