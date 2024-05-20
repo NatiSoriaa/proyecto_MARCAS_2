@@ -187,48 +187,53 @@
                         </div>
                         <div class="currentInformation" style="margin-left:5%;">
                             <span>
-                                <div>
+                                <div style="margin-bottom:5%">
                                     <p class="information">
                                         <img src="@Url.Content("~/Content/Images/iconWeather/sunrise.png")" height="30px" width="30px" alt="First slide">
                                         SUNRISE TIME: </p>
                                     <p class="data">@datum.sunrise H</p>
                                 </div>
-                                <div><p class="information">CLOUD COVERAGE: </p><p class="data">@datum.clouds %</p></div>
-                                <div><p class="information">RAIN PRECIPITATION: </p><p class="data">@datum.precip mm/hr</p></div>         
-                                <div><p class="information">SNOW PRECIPITATION: </p><p class="data">@datum.snow mm/hr</p></div>                               
+                                <div style=margin-left:5%>
+                                    <div><p class="information">CLOUD COVERAGE: </p><p class="data">@datum.clouds %</p></div>
+                                    <div><p class="information">RAIN PRECIPITATION: </p><p class="data">@datum.precip mm/hr</p></div>         
+                                    <div><p class="information">SNOW PRECIPITATION: </p><p class="data">@datum.snow mm/hr</p></div> 
+                                </div>
+                                                              
                             </span>
 
                             <span>
-                                <div>  
+                                <div style="margin-bottom:5%">  
                                     <p class="information">
                                         <img src="@Url.Content("~/Content/Images/iconWeather/sunset.png")" height="30px" width="30px" alt="First slide">
                                         SUNSET TIME: </p>
                                     <p class="data">@datum.sunset H</p>
                                 </div>
-                                <div><p class="information">UV INDEX: </p><p class="data">@datum.uv </p></div>
-                                <div><p class="information">SPEED WIND: </p><p class="data">@datum.wind_spd m/s</p> </div>
-                                <div><p class="information">HUMITY: </p><p class="data">@datum.rh %</p></div>                
+                                <div style=margin-left:5%>
+                                    <div><p class="information">UV INDEX: </p><p class="data">@datum.uv </p></div>
+                                    <div><p class="information">SPEED WIND: </p><p class="data">@datum.wind_spd m/s</p> </div>
+                                    <div><p class="information">HUMITY: </p><p class="data">@datum.rh %</p></div>    
+                                </div>            
                             </span>
                         </div>
                         
                         @if (datum.aqi>100)
                         {
                             <div class="qualityAir" style="background-image: url('@Url.Content("~/Content/Images/iconWeather/qualityAirBAD.png")');">
-                                 <a  class="qualityText" style="margin-left:0.5%  z-index:1;" href="@Url.Action("AqiAirInformation", "Home", new { longitude = datum.lon , latitude=datum.lat})" class="button"> QUALITY AIR  : @datum.aqi ICA</a>
+                                 <a  class="qualityText" style="margin-left:0.5%  z-index:1;" href="@Url.Action("AqiAirInformation", "Home", new { longitude = datum.lon , latitude=datum.lat})" > QUALITY AIR  : @datum.aqi ICA</a>
                                 <img src="@Url.Content("~/Content/Images/iconWeather/airBAD.png")" height="120px" width="140px" style="margin-left:0.5%" alt="First slide">
                             </div>
                         }
                         else if (datum.aqi >60)
                         {
                             <div class="qualityAir" style="background-image: url('@Url.Content("~/Content/Images/iconWeather/qualityAirOK.jpg")');">
-                                 <a  class="qualityText" style="margin-left:0.5%  z-index:1;" href="@Url.Action("AqiAirInformation", "Home", new { longitude = datum.lon , latitude=datum.lat})" class="button"> QUALITY AIR  : @datum.aqi ICA</a>
+                                 <a  class="qualityText" style="margin-left:0.5%  z-index:1;" href="@Url.Action("AqiAirInformation", "Home", new { longitude = datum.lon , latitude=datum.lat})" > QUALITY AIR  : @datum.aqi ICA</a>
                                 <img src="@Url.Content("~/Content/Images/iconWeather/airOK.png")" height="80px" width="100px" style="margin-left:0.5%" alt="First slide">
                             </div>
                         }
                         else if (datum.aqi<60)
                         {
                             <div class="qualityAir" style="background-image: url('@Url.Content("~/Content/Images/iconWeather/qualityAirGOOD.jpg")');">
-                                <a  class="qualityText" style="margin-left:0.5%  z-index:1;" href="@Url.Action("AqiAirInformation", "Home", new { longitude = datum.lon , latitude=datum.lat})" class="button"> QUALITY AIR  : @datum.aqi ICA</a>
+                                <a  class="qualityText" style="margin-left:0.5%  z-index:1;" href="@Url.Action("AqiAirInformation", "Home", new { longitude = datum.lon , latitude=datum.lat})" > QUALITY AIR  : @datum.aqi ICA</a>
                                 <img src="@Url.Content("~/Content/Images/iconWeather/airGOOD.png")" height="120px" width="140px" style="margin-left:0.5%" alt="First slide">
                             </div>
                         }

@@ -87,7 +87,6 @@ public class HomeController : Controller
         };
 
         return countriesIDs;
-
     }
 
     public IActionResult WeatherInformation(string id, string background){
