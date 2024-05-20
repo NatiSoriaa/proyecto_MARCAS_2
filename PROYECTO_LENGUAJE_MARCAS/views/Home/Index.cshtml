@@ -130,11 +130,12 @@
         
         .countryInformation{
             color:rgb(12, 27, 2);
-            font-size: 200%;
+            font-size: 180%;
             -webkit-text-stroke-width: 1px;
             -webkit-text-stroke-color: #12fded;
             font-weight: bolder;
             font-family: 'Regen', sans-serif;
+        }
     </style>
 </head>
 <body>
@@ -147,9 +148,9 @@
                     <div class="flip-card-inner">
                         <div class="flip-card-front"style="background-image: url('@country.urlImagen'); background-size:cover;">
                             <h1>@country.countryName</h1>
-                            <p>@country.capitalCountry</p>
+                            <p class="countryInformation">@country.capitalCountry</p>
                         </div>
-                        <div class="flip-card-back" style="background-image: url('@country.urlCityImage'); background-size:cover;">   
+                        <div class="flip-card-back " style="background-image: url('@country.urlCityImage'); background-size:cover;">   
                             <a href="@Url.Action("WeatherInformation", "Home", new { id = country.id , background=country.urlCityImage})" class="button">Consultar</a>
                         </div>
                     </div>

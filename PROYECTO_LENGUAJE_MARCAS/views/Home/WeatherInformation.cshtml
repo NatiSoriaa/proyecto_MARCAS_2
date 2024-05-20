@@ -9,6 +9,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/Content/css/WeatherInformation.css")" />
 
     <style>
         
@@ -219,22 +220,22 @@
                         
                         @if (datum.aqi>100)
                         {
-                            <div class="qualityAir" style="background-image: url('@Url.Content("~/Content/Images/iconWeather/qualityAirBAD.png")');">
-                                 <a  class="qualityText" style="margin-left:0.5%  z-index:1;" href="@Url.Action("AqiAirInformation", "Home", new { longitude = datum.lon , latitude=datum.lat})" > QUALITY AIR  : @datum.aqi ICA</a>
+                            <div class="qualityAir button-container" style="background-image: url('@Url.Content("~/Content/Images/iconWeather/qualityAirBAD.png")');">
+                                 <a  class="qualityText stretch-out" style="margin-left:0.5%  z-index:1;" href="@Url.Action("AqiAirInformation", "Home", new { longitude = datum.lon , latitude=datum.lat})" > QUALITY AIR  : @datum.aqi ICA</a>
                                 <img src="@Url.Content("~/Content/Images/iconWeather/airBAD.png")" height="120px" width="140px" style="margin-left:0.5%" alt="First slide">
                             </div>
                         }
                         else if (datum.aqi >60)
                         {
-                            <div class="qualityAir" style="background-image: url('@Url.Content("~/Content/Images/iconWeather/qualityAirOK.jpg")');">
-                                 <a  class="qualityText" style="margin-left:0.5%  z-index:1;" href="@Url.Action("AqiAirInformation", "Home", new { longitude = datum.lon , latitude=datum.lat})" > QUALITY AIR  : @datum.aqi ICA</a>
+                            <div class="qualityAir button-container" style="background-image: url('@Url.Content("~/Content/Images/iconWeather/qualityAirOK.jpg")');">
+                                 <a  class="qualityText stretch-out" style="margin-left:0.5%  z-index:1;" href="@Url.Action("AqiAirInformation", "Home", new { longitude = datum.lon , latitude=datum.lat})" > QUALITY AIR  : @datum.aqi ICA</a>
                                 <img src="@Url.Content("~/Content/Images/iconWeather/airOK.png")" height="80px" width="100px" style="margin-left:0.5%" alt="First slide">
                             </div>
                         }
                         else if (datum.aqi<60)
                         {
-                            <div class="qualityAir" style="background-image: url('@Url.Content("~/Content/Images/iconWeather/qualityAirGOOD.jpg")');">
-                                <a  class="qualityText" style="margin-left:0.5%  z-index:1;" href="@Url.Action("AqiAirInformation", "Home", new { longitude = datum.lon , latitude=datum.lat})" > QUALITY AIR  : @datum.aqi ICA</a>
+                            <div class="qualityAir button-container" style="background-image: url('@Url.Content("~/Content/Images/iconWeather/qualityAirGOOD.jpg")');">
+                                <a  class="qualityText stretch-out" style="margin-left:0.5%  z-index:1;" href="@Url.Action("AqiAirInformation", "Home", new { longitude = datum.lon , latitude=datum.lat})" > QUALITY AIR  : @datum.aqi ICA</a>
                                 <img src="@Url.Content("~/Content/Images/iconWeather/airGOOD.png")" height="120px" width="140px" style="margin-left:0.5%" alt="First slide">
                             </div>
                         }

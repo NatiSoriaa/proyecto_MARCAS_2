@@ -43,18 +43,20 @@
             width: 100%;
         }
 
-        .currentCityBox {
-            border-radius: 10px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            height: fit-content;
-            width: 100%;
-            padding: 20px;
-            margin-bottom: 5px; 
+        .title {
+            text-align: center;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 120px;
+            font-weight: bolder;
+            background: linear-gradient(to right, #085409, #28962a, #85d687);
             background-size: cover;
-            background-repeat: no-repeat;
-            background-position: center;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            -webkit-text-stroke: 2px rgb(253, 239, 239);
+            text-decoration: none;
+            text-align: center;
+            margin-bottom: -10%;
+
         }
         
 
@@ -62,19 +64,6 @@
             width: 100%;
         }
         
-        .leftSpan {
-            align-items: center;
-            flex: 1;
-            font-size: xx-large;
-            font-weight: bolder;
-            text-align: center;
-        }
-
-        .rightSpan {
-            flex: 1;
-            display: flex;
-            justify-content: flex-end;
-        }
 
         .currentInformation {
             display: flex;
@@ -92,22 +81,27 @@
             
         }
 
-
-        .information{
-            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        .contaminants{
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
             font-size: 40px;
-            text-align:left;
+            font-weight: bolder;
             background: linear-gradient(to right, #085409, #085409, #058b08);
             background-size: cover;
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
+            -webkit-text-stroke: 1px rgb(253, 239, 239);
+            text-decoration: none;
+            text-align: center;
         }
 
-        .data{
+
+        .information{
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
             font-size: 25px;
             font-weight: bolder;
             margin-left: 10%;
         }
+
 
         .qualityAir {
             margin: 100px auto;
@@ -138,6 +132,21 @@
             -webkit-text-stroke: 1px rgb(253, 239, 239);
         }
 
+        .predominant{
+            border:solid 3px #085409;
+        }
+        .pollen{
+            text-align: center;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 45px;
+            font-weight: bolder;
+            background: linear-gradient(to right, #085409, #085409, #058b08);
+            background-size: cover;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+          
+        }
+
         
 
         footer{
@@ -165,6 +174,9 @@
                 foreach (var datum in aqiModel.data)
                 {
                     <div class="container">
+
+                        <p class="title">@aqiModel.city_name</p>  
+       
                         @if (datum.aqi > 100)
                         {
                             <div class="qualityAir" style="background-image: url('@Url.Content("~/Content/Images/iconWeather/qualityAirBAD.png")');">
@@ -186,27 +198,52 @@
                                 <img src="@Url.Content("~/Content/Images/iconWeather/airGOOD.png")" height="120px" width="140px" style="margin-left:0.5%" alt="First slide">
                             </div>
                         }
-                        <div class="currentCityBox">
-                            <div class="leftSpan">
-                                <h1 style="font-weight: bolder; font-size:40px;">@aqiModel.city_name</h1>
-                            </div>
-                        </div>
-                        <div class="currentInformation" style="margin-left:5%;">
+                       
+                        <div class="currentInformation">
                             <span>
-                                <div><p class="information">O3: </p><p class="data">@datum.o3 %</p></div>
-                                <div><p class="information">SO2: </p><p class="data">@datum.so2 mm/hr</p></div>         
-                                <div><p class="information">NO2: </p><p class="data">@datum.no2 mm/hr</p></div>
-                                <div><p class="information">CO: </p><p class="data">@datum.co %</p></div>
-                                <div><p class="information">PM10: </p><p class="data">@datum.pm10 mm/hr</p></div>         
-                                <div><p class="information">PM25: </p><p class="data">@datum.pm25 mm/hr</p></div>
+                                <p class="contaminants">AIR POLLUTANTS CONCENTRATION</p>
+                                <p class="information">Concentration of surface O3:<br>@datum.o3 µg/m³</p>
+                                <p class="information">Concentration of surface SO2:<br>@datum.so2 µg/m³</p>      
+                                <p class="information">Concentration of surface NO2:<br>@datum.no2 µg/m³</p>
+                                <p class="information">Concentration of carbon monoxide:<br>@datum.co µg/m</p>
+                                <p class="information">Concentration of large coarse particles:<br>@datum.pm10 µg/m³</p>        
+                                <p class="information">Concentration of fine particles:<br>@datum.pm25 µg/m³</p>
                             </span>
                             <span>
-                                <div><p class="information">TREE POLLEN: </p><p class="data">@datum.pollen_level_tree </p></div>
-                                <div><p class="information">GRASS POLLEN: </p><p class="data">@datum.pollen_level_grass m/s</p> </div>
-                                <div><p class="information">WEED POLLEN: </p><p class="data">@datum.pollen_level_weed %</p></div>   
-                                <div><p class="information">MOLD POLLEN: </p><p class="data">@datum.mold_level m/s</p> </div>
-                                <div><p class="information">PREDOMINANT POLLEN: </p><p class="data">@datum.predominant_pollen_type %</p></div>              
-                            </span>
+                                <p class="contaminants" style="margin-top:5%;">POLLEN LEVELS</p>
+                                <p style="font-size: 17px; margin-top:-15px; font-family: 'Gill Sans';font-weight: bolder; color:#085409;">(0=None, 1=Low, 2=Moderate, 3=High, 4=Very High):  </p>
+                                <p class="information" style="margin-top:5%;">Tree pollen: @datum.pollen_level_tree </p>
+                                <p class="information">Grass pollen: @datum.pollen_level_grass</p> 
+                                <p class="information">Weed pollen: @datum.pollen_level_weed </p>   
+                                <p class="information">Mold pollen: @datum.mold_level</p>
+
+                                @if (datum.predominant_pollen_type=="Trees")
+                                {
+                                    <div class="predominant" style="margin-top:10%">
+                                        <p class="information">PREDOMINANT POLLEN TYPE:</p>
+                                        <p class="pollen">@datum.predominant_pollen_type <img src="@Url.Content("~/Content/Images/iconsAqi/trees.png")" height="60px" width="60px" style="margin-left:0.5%"></p>   
+                                    </div>      
+                                }
+                                else if (datum.predominant_pollen_type=="Weeds")
+                                {
+                                    <div class="predominant" style="margin-top:10%">
+                                        <p class="information">PREDOMINANT POLLEN TYPE:</p>
+                                        <p class="pollen">@datum.predominant_pollen_type <img src="@Url.Content("~/Content/Images/iconsAqi/weeds.png")" height="60px" width="60px" style="margin-left:0.5%"></p>   
+                                    </div>   
+                                }    
+                                else if(datum.predominant_pollen_type=="Molds"){
+                                    <div class="predominant" style="margin-top:10%">
+                                        <p class="information">PREDOMINANT POLLEN TYPE:</p>
+                                        <p class="pollen">@datum.predominant_pollen_type <img src="@Url.Content("~/Content/Images/iconsAqi/mold.png")" height="60px" width="60px" style="margin-left:0.5%"></p>   
+                                    </div>   
+                                }  
+                                else if(datum.predominant_pollen_type=="Grasses"){
+                                    <div class="predominant" style="margin-top:10%">
+                                        <p class="information">PREDOMINANT POLLEN TYPE:</p>
+                                        <p class="pollen">@datum.predominant_pollen_type <img src="@Url.Content("~/Content/Images/iconsAqi/grass.png")" height="60px" width="60px" style="margin-left:0.5%"></p>   
+                                    </div>   
+                                }
+                                </span>
                         </div>
                     </div>
                 }
