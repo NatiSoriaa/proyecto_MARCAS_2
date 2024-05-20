@@ -37,6 +37,7 @@
     .navbar{
         margin-bottom: 0;
         background:rgba(14, 66, 106);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
     }
     .carousel{
         margin-top: -2%;
@@ -64,15 +65,12 @@
 </style>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm ">
+        <nav class="navbar">
             <div class="container-fluid">
-                <a class="navbar-brand">WEATHER CHECK</a>
-                <ul class="navbar-nav flex-grow-1">
-                    <li class="nav-item">
-                        <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">HOME</a>
-                    </li>
-                </ul>
-                
+                <a class="navbar-brand" asp-controller="Home" asp-action="Index"> 
+                    <p style="font-size:40px; font-weight:bolder;-webkit-text-stroke-width: 1px; color:rgb(157, 216, 233);"><img src="@Url.Content("~/Content/Images/logo.png")" height="70px" width="70px" alt="First slide" style="margin-bottom:4px;">
+                    Clouds over Europe</p>
+                </a>
             </div>
         </nav>
         <div  class="carousel slide" data-ride="carousel" >

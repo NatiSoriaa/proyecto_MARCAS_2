@@ -1,6 +1,6 @@
-﻿@using PROYECTO_LENGUAJE_MARCAS.Controllers
+﻿@using PROYECTO_LENGUAJE_MARCAS.Models
 @{
-    ViewData["Title"] = "Home";
+    ViewData["Title"] = "Aqi Information";
  
 }
 <!DOCTYPE html>
@@ -164,102 +164,71 @@
 </head>
 
 <body>
-
     <main class="main">
-            @if (Model != null && Model.Count > 0 && Model[0].data != null)
-            {
-                foreach (var datum in Model[0].data)
-                {
-                    string backgroundCurrentCity = datum.precip > 20 ? "~/Content/Images/iconWeather/day/rain.jpg" :
-                                          datum.snow > 0 ? "~/Content/Images/iconWeather/day/snow.jpg" :
-                                          datum.clouds >= 50 ? "~/Content/Images/iconWeather/day/cloud.jpg" : 
-                                          "~/Content/Images/iconWeather/day/sunny.jpg";
+        @if (Model != null && Model.Count > 0)
+        {
+            var aqiModel = Model[0];
 
+            if (aqiModel.data != null && aqiModel.data.Count > 0)
+            {
+                foreach (var datum in aqiModel.data)
+                {
                     <div class="container">
-                        <div class="currentCityBox" style="background-image: url('@Url.Content(backgroundCurrentCity)')">
-                            <div class="leftSpan">
-                                <h1 style="font-weight: bolder; font-size:40px;">@datum.city_name</h1>
-                                <h3 style="font-weight: bolder; font-size:30px;">@datum.ob_time</h3>
+                        @if (datum.aqi > 100)
+                        {
+                            <div class="qualityAir" style="background-image: url('@Url.Content("~/Content/Images/iconWeather/qualityAirBAD.png")');">
+                                <p class="qualityText" style="margin-left:0.5%">QUALITY AIR : @datum.aqi ICA</p>
+                                <img src="@Url.Content("~/Content/Images/iconWeather/airBAD.png")" height="120px" width="140px" style="margin-left:0.5%" alt="First slide">
                             </div>
-                            <div class="rightSpan">
-                                <p class="temperature">@datum.temp ºC</p>
+                        }
+                        else if (datum.aqi > 60)
+                        {
+                            <div class="qualityAir" style="background-image: url('@Url.Content("~/Content/Images/iconWeather/qualityAirOK.jpg")');">
+                                <p class="qualityText" style="margin-left:0.5%">QUALITY AIR : @datum.aqi ICA</p>
+                                <img src="@Url.Content("~/Content/Images/iconWeather/airOK.png")" height="120px" width="140px" style="margin-left:0.5%" alt="First slide">
+                            </div>
+                        }
+                        else if (datum.aqi < 60)
+                        {
+                            <div class="qualityAir" style="background-image: url('@Url.Content("~/Content/Images/iconWeather/qualityAirGOOD.jpg")');">
+                                <p class="qualityText" style="margin-left:0.5%">QUALITY AIR : @datum.aqi ICA</p>
+                                <img src="@Url.Content("~/Content/Images/iconWeather/airGOOD.png")" height="120px" width="140px" style="margin-left:0.5%" alt="First slide">
+                            </div>
+                        }
+                        <div class="currentCityBox">
+                            <div class="leftSpan">
+                                <h1 style="font-weight: bolder; font-size:40px;">@aqiModel.city_name</h1>
                             </div>
                         </div>
                         <div class="currentInformation" style="margin-left:5%;">
                             <span>
-                                <div>
-                                    <p class="information">
-                                        <img src="@Url.Content("~/Content/Images/iconWeather/sunrise.png")" height="30px" width="30px" alt="First slide">
-                                        SUNRISE TIME: </p>
-                                    <p class="data">@datum.sunrise H</p>
-                                </div>
-                                <div><p class="information">CLOUD COVERAGE: </p><p class="data">@datum.clouds %</p></div>
-                                <div><p class="information">RAIN PRECIPITATION: </p><p class="data">@datum.precip mm/hr</p></div>         
-                                <div><p class="information">SNOW PRECIPITATION: </p><p class="data">@datum.snow mm/hr</p></div>                               
+                                <div><p class="information">O3: </p><p class="data">@datum.o3 %</p></div>
+                                <div><p class="information">SO2: </p><p class="data">@datum.so2 mm/hr</p></div>         
+                                <div><p class="information">NO2: </p><p class="data">@datum.no2 mm/hr</p></div>
+                                <div><p class="information">CO: </p><p class="data">@datum.co %</p></div>
+                                <div><p class="information">PM10: </p><p class="data">@datum.pm10 mm/hr</p></div>         
+                                <div><p class="information">PM25: </p><p class="data">@datum.pm25 mm/hr</p></div>
                             </span>
-
                             <span>
-                                <div>  
-                                    <p class="information">
-                                        <img src="@Url.Content("~/Content/Images/iconWeather/sunset.png")" height="30px" width="30px" alt="First slide">
-                                        SUNSET TIME: </p>
-                                    <p class="data">@datum.sunset H</p>
-                                </div>
-                                <div><p class="information">UV INDEX: </p><p class="data">@datum.uv </p></div>
-                                <div><p class="information">SPEED WIND: </p><p class="data">@datum.wind_spd m/s</p> </div>
-                                <div><p class="information">HUMITY: </p><p class="data">@datum.rh %</p></div>                
+                                <div><p class="information">TREE POLLEN: </p><p class="data">@datum.pollen_level_tree </p></div>
+                                <div><p class="information">GRASS POLLEN: </p><p class="data">@datum.pollen_level_grass m/s</p> </div>
+                                <div><p class="information">WEED POLLEN: </p><p class="data">@datum.pollen_level_weed %</p></div>   
+                                <div><p class="information">MOLD POLLEN: </p><p class="data">@datum.mold_level m/s</p> </div>
+                                <div><p class="information">PREDOMINANT POLLEN: </p><p class="data">@datum.predominant_pollen_type %</p></div>              
                             </span>
                         </div>
-                        
-                        @if (datum.aqi>100)
-                        {
-                            <div class="qualityAir" style="background-image: url('@Url.Content("~/Content/Images/iconWeather/qualityAirBAD.png")');">
-                                 <a  class="qualityText" style="margin-left:0.5%  z-index:1;" href="@Url.Action("AqiAirInformation", "Home", new { longitude = datum.lon , latitude=datum.lat})" class="button"> QUALITY AIR  : @datum.aqi ICA</a>
-                                <img src="@Url.Content("~/Content/Images/iconWeather/airBAD.png")" height="120px" width="140px" style="margin-left:0.5%" alt="First slide">
-                            </div>
-                        }
-                        else if (datum.aqi >60)
-                        {
-                            <div class="qualityAir" style="background-image: url('@Url.Content("~/Content/Images/iconWeather/qualityAirOK.jpg")');">
-                                 <a  class="qualityText" style="margin-left:0.5%  z-index:1;" href="@Url.Action("AqiAirInformation", "Home", new { longitude = datum.lon , latitude=datum.lat})" class="button"> QUALITY AIR  : @datum.aqi ICA</a>
-                                <img src="@Url.Content("~/Content/Images/iconWeather/airOK.png")" height="80px" width="100px" style="margin-left:0.5%" alt="First slide">
-                            </div>
-                        }
-                        else if (datum.aqi<60)
-                        {
-                            <div class="qualityAir" style="background-image: url('@Url.Content("~/Content/Images/iconWeather/qualityAirGOOD.jpg")');">
-                                <a  class="qualityText" style="margin-left:0.5%  z-index:1;" href="@Url.Action("AqiAirInformation", "Home", new { longitude = datum.lon , latitude=datum.lat})" class="button"> QUALITY AIR  : @datum.aqi ICA</a>
-                                <img src="@Url.Content("~/Content/Images/iconWeather/airGOOD.png")" height="120px" width="140px" style="margin-left:0.5%" alt="First slide">
-                            </div>
-                        }
-                                 
-                            
-                        
                     </div>
-                    @if (datum.precip >=20)
-                    {
-                        <body style="background-image: url('@Url.Content("~/Content/Images/lluvia.gif")')"></body>
-                    }
-                    else if (datum.snow > 0)
-                    {
-                        <body style="background-image: url('@Url.Content("~/Content/Images/nieve.gif")')"></body>
-                    }
-                    else if (datum.clouds >= 50)
-                    {
-                        <body style="background-image: url('@Url.Content("~/Content/Images/nublado.jpeg")')"></body>
-                    }
-                    else
-                    {
-                        <body style="background-image: url('@Url.Content("~/Content/Images/soleado.gif")')"></body>
-                    }
                 }
             }
-
-                else
-                {
-                    <p>No se encontraron datos de clima.</p>
-                }
+            else
+            {
+                <p>No se encontraron datos de calidad del aire.</p>
+            }
+        }
+        else
+        {
+            <p>No se encontraron datos.</p>
+        }
     </main>
-
 </body>
 </html>

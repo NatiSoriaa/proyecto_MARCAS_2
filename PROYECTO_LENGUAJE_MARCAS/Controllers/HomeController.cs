@@ -126,14 +126,30 @@ public class HomeController : Controller
 
     }
 
+    public IActionResult AqiAirInformation(string longitude, string latitude){
 
+        var urlApiAqi=$"https://api.weatherbit.io/v2.0/current/airquality?lat={latitude}&lon={longitude}&key=b594f4848b42479cb1d61d4283ff8793";
+        
+        var clientAqi= new HttpClient();
+        var responseAqi=clientAqi.GetAsync(urlApiAqi).Result;
+        var contentAqi=responseAqi.Content.ReadAsStringAsync().Result;
+        
+        var informationAqi = JsonSerializer.Deserialize<ApiAqi.Aqi>(contentAqi);
+
+        var listInformationAqi = new List<ApiAqi.Aqi>{informationAqi};
+     
+        
+        if (listInformationAqi != null)
+        {
+            return View(listInformationAqi);
+        }
+        else
+        {
+            return View("no hay datos");
+        }
     
-
-
-    public IActionResult Privacy()
-    {
-        return View();
     }
+
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
