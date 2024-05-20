@@ -409,6 +409,18 @@
       "PackagePath": "staticwebassets\\Content\\Images\\fondoprueba1.jpg"
     },
     {
+      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\MARCAS_ULTIMO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\hojas.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\hojas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\MARCAS_ULTIMO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\hojasCayendo.gif",
+      "PackagePath": "staticwebassets\\Content\\Images\\hojasCayendo.gif"
+    },
+    {
+      "Id": "C:\\Users\\Nati\\Downloads\\DAW\\MARCAS_ULTIMO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\hojasCayendo2.gif",
+      "PackagePath": "staticwebassets\\Content\\Images\\hojasCayendo2.gif"
+    },
+    {
       "Id": "C:\\Users\\Nati\\Downloads\\DAW\\MARCAS_ULTIMO\\proyecto_MARCAS_2\\PROYECTO_LENGUAJE_MARCAS\\wwwroot\\Content\\Images\\iconWeather\\airBAD.png",
       "PackagePath": "staticwebassets\\Content\\Images\\iconWeather\\airBAD.png"
     },
