@@ -89,7 +89,7 @@ public class HomeController : Controller
         return countriesIDs;
     }
 
-    public IActionResult WeatherInformation(string id, string background){
+    public IActionResult WeatherInformation(string id){
 
         
         var urlApiCountry = $"http://api.geonames.org/getJSON?geonameId={id}&username=nagasa";
@@ -111,7 +111,7 @@ public class HomeController : Controller
 
         var listInformationWeather = new List<ApiWeather.Root>{informationWeather};
 
-        ViewData["Background"]=background;
+        
         
         
         if (listInformationWeather != null)
