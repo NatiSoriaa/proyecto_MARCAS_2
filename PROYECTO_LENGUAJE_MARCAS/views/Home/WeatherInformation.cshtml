@@ -121,6 +121,23 @@
             margin-left: 10%;
         }
 
+        .data-container {
+            padding: 10px;
+            margin: 10px;
+            border: 2px solid #085409; 
+            border-radius: 10px;
+            background: linear-gradient(to right, #f8ea90, rgb(79, 170, 245));
+            
+            transition: transform 0.3s ease-in-out; 
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+            position: center;
+        }
+
+        .data-container:hover {
+            transform: scale(1.1); 
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); 
+        }
+
         .qualityAir {
             margin: 100px auto;
             width: 80%;
@@ -188,8 +205,8 @@
                                 <p class="temperature">@datum.temp ºC</p>
                             </div>
                         </div>
-                        <div class="currentInformation" style="margin-left:15%;">
-                            <span>
+                        <div class="currentInformation">
+                            <span class = "data-container">
                                 <div style="margin-bottom:5%">
                                     <p class="information">
                                         <img src="@Url.Content("~/Content/Images/iconWeather/sunrise.png")" height="30px" width="30px" alt="First slide">
@@ -204,7 +221,7 @@
                                                               
                             </span>
 
-                            <span>
+                            <span class = "data-container">
                                 <div style="margin-bottom:5%">  
                                     <p class="information">
                                         <img src="@Url.Content("~/Content/Images/iconWeather/sunset.png")" height="30px" width="30px" alt="First slide">
