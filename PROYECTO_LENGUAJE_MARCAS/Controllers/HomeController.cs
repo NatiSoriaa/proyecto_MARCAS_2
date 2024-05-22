@@ -51,7 +51,7 @@ public class HomeController : Controller
         new CountriesID {countryName="Finland",capitalCountry="Helsinki",urlImagen="Content/Images/flags/banderaFinland.webp",urlCityImage="Content/Images/countries/hellsinki.jpg",id=658225},
         new CountriesID {countryName="France",capitalCountry="Paris",urlImagen="Content/Images/flags/banderaFrance.webp",urlCityImage="Content/Images/countries/paris.jpg",id=2988507},
         new CountriesID {countryName="Georgia",capitalCountry="Tbilisi",urlImagen="Content/Images/flags/banderaGeorgia.webp",urlCityImage="Content/Images/countries/tibilisi.jpeg",id=611717},
-        new CountriesID {countryName="Greece",capitalCountry="Athens",urlImagen="Content/Images/flags/banderaGreece.webp",urlCityImage="Content/Images/countries/athens.jpg",id=24505546},
+        new CountriesID {countryName="Greece",capitalCountry="Athens",urlImagen="Content/Images/flags/banderaGreece.webp",urlCityImage="Content/Images/countries/athens.jpg",id=264371},
         new CountriesID {countryName="Hungary",capitalCountry="Budapest",urlImagen="Content/Images/flags/banderaHungary.webp",urlCityImage="Content/Images/countries/budapest.jpg",id=3054643},
         new CountriesID {countryName="Iceland",capitalCountry="Reykjavik",urlImagen="Content/Images/flags/banderaIceland.webp",urlCityImage="Content/Images/countries/reykjavik.jpg",id=3413829},
         new CountriesID {countryName="Ireland",capitalCountry="Dublin",urlImagen="Content/Images/flags/banderaIreland.webp",urlCityImage="Content/Images/countries/dublin.jpg",id=2964574},
